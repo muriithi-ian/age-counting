@@ -1,0 +1,19 @@
+{
+  "name": "coderbyte",
+  "version": "1.0.0",
+  "description": "Simple chalenge to parse data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muriithi-ian/age-counting.git"
+  },
+  "author": "Muriithi Ian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muriithi-ian/age-counting/issues"
+  },
+  "homepage": "https://github.com/muriithi-ian/age-counting#readme"
+}
